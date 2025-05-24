@@ -1,5 +1,4 @@
-# xfwm4-Theme-Default-hdpi-gradually-scaled-up
-xfwm4-Theme-Default-hdpi-gradually-scaled-up
+# xfwm4 Theme Default-hdpi gradually scaled up for modern HDPI Screens
 
 I have gradually scaled up the xfwm4 theme (for the Xfce4 Window Manager) for HDPI screens, based on the script suggested by https://github.com/CouldBeThis/xfwm4-themes-hiDPI :
 
