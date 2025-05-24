@@ -10,6 +10,6 @@ I have 'improved' the theme by replacing the X button, which always ends up fuzz
 To make the theme also work for dark themes, I used the following command:  
 sed -i 's/#      c #000000/#      c #808080/g' *.xpm
 
-The folders in the .zip file can be extracted directly to ~/.local/share/themes .
-You will then be able to pick a suitably scaled window title inside the Xfce application **Window Manager** to match your chosen scale.
+The folders in the .zip file can be directly extracted to ~/.local/share/themes .
+You will then be able to pick a suitably scaled window title from inside the Xfce application **Window Manager** to match your chosen scale.
  
