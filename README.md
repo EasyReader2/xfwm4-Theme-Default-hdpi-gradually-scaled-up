@@ -16,3 +16,4 @@ sed -i 's/#      c #000000/#      c #808080/g' *.xpm
 The folders in the .zip file can be directly extracted to ~/.local/share/themes .
 You will then be able to pick a theme that has a suitably scaled window title from inside the Xfce application **Window Manager** to match your chosen scale.
  
+![Window-Manager_Screenshot.png](Window-Manager_Screenshot.png)
