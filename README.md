@@ -7,7 +7,7 @@ find . -name "*.xpm" -o -name "*.png" | xargs -I {} magick {} -sample "${Scaling
 
 I have 'improved' the theme by replacing the X button, which always ends up fuzzy and pixilated, by a black square. The main trick was to edit relevant xpm files in a text editor and then fill up the X shape until it becomes a square. I also changed the RGB value for . (dot).
 
-To make the theme also work for dark themes, I used the following command:
+To make the theme also work for dark themes, I used the following command:  
 sed -i 's/#      c #000000/#      c #808080/g' *.xpm
 
 The folders in the .zip file can be extracted directly to ~/.local/share/themes .
